@@ -7,5 +7,8 @@ public class Main {
 
         Person alex = new Person("Alex");
         System.out.println(alex.sayHello());
+
+        Person nicole = new Person("Nicole");
+        System.out.println(nicole.sayHello());
     }
 }
