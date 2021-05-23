@@ -10,5 +10,8 @@ public class Main {
 
         Person nicole = new Person("Nicole");
         System.out.println(nicole.sayHello());
+
+        Person hollie = new Person("Hollie");
+        System.out.println(hollie.sayHello());
     }
 }
